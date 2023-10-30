@@ -1,0 +1,252 @@
+.logo {
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.logo-header {
+    color: #000000;
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-list-link {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.nav-list-link {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #000000;
+}
+
+.contacts-list-link:hover,
+.nav-list-link:hover {
+    color: #2196F3;
+}
+
+.contacts-list-link {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+
+.section-hero-title {
+    font-family: Roboto;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0.06em;
+    text-align: center;
+    color: #FFFFFF;
+    width: 696px;
+    margin: 0 auto;
+}
+
+.section-hero-btn {
+    width: 216px;
+    height: 50px;
+    border-radius: 4px;
+    background-color: #2196F3;
+    color: #FFFFFF;
+    border: none;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.section-hero{
+    background: #2F303A;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.features-list-title {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.features-list-text {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.section-work-title {
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #212121;
+}
+
+.work-team-title {
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #212121;
+}
+
+.logo-footer {
+    color: #FFFFFF;
+}
+
+.addres-list-link {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF99;
+}
+
+.location-link {
+    color: #FFFFFF;
+}
+
+.footer {
+    background-color: #2F303A;
+}
+
+.team-list{
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+}
+
+.section-team-title{
+    text-align: center;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+}
+
+.contacts-list {
+    display: flex;
+    gap: 30px;
+}
+
+.nav-list {
+    display: flex;
+    gap: 50px;
+}
+
+.features-list{
+    display: flex;
+    justify-content: center;
+}
+
+.features-list-item{
+    max-width: 270px;
+}
+
+.work-list{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.section-work-title,.work-team-title{
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.section-features{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
+.footer{
+    padding-top: 55px;
+    padding-bottom: 60px;
+}
+
+.box{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.body{
+    margin: 0;
+}
+
+.buttons-list{
+    gap: 8px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 60px;
+}
+
+.portfolio-list{
+    display: flex;
+    flex-wrap: wrap; max-width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 34px;
+    gap: 30px;
+}
+
+.buttons-list-btn:hover{
+   background-color: #2196F3;
+   color: #FFFFFF;
+   border-radius: 4px;
+   cursor: pointer;
+}
+
+.buttons-list-btn{
+    padding: 6px 22px;
+    border: none;
+    border-radius: 4px;
+}
+
+.portfolio-section{
+    padding-top: 89px;
+    padding-bottom: 89px;
+}
+
+body{
+    margin: 0;
+}
